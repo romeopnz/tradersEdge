@@ -18,3 +18,4 @@ yarn-error.log*
 # Ignore IDE settings
 .vscode/
 .idea/
+.next/
